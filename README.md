@@ -7,7 +7,7 @@ Most of the assignment repositories will have three files: <br>
 3. Create file: This will be the "starter" file for each assignment. You should open this in Azure Data Studio and complete it on your local computer. <br>
 
 The practice assignment is very simple. All that you need to do is add a new cell to the starter file that reads: <br>
-'Hello, Github' <br>
+'Hello, Github!' <br>
 
 Feel free to look at the example output file to see what a final result for this project may look like.
 
