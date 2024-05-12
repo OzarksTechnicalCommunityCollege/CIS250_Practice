@@ -6,8 +6,7 @@ Most of the assignment repositories will have three files: <br>
 2. ExampleOutput file: when applicable I will provide an example output for you to reference as you complete your work. You should be original in your creations and push yourself to learn something new with each assignment. TLDR, don't copy. <br>
 3. Create file: This will be the "starter" file for each assignment. You should open this in Azure Data Studio and complete it on your local computer. <br>
 
-The practice assignment is very simple. All that you need to do is add a new cell to the starter file that reads: <br>
-'Hello, Github!' <br>
+The practice assignment is very simple. All that you need to do is update a line of code in the starter file to include your name.
 
 Feel free to look at the example output file to see what a final result for this project may look like.
 
