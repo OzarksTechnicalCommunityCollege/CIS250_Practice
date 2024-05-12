@@ -6,8 +6,8 @@ Most of the assignment repositories will have three files: <br>
 2. ExampleOutput file: when applicable I will provide an example output for you to reference as you complete your work. You should be original in your creations and push yourself to learn something new with each assignment. TLDR, don't copy. <br>
 3. Create file: This will be the "starter" file for each assignment. You should open this in Azure Data Studio and complete it on your local computer. <br>
 
-The practice assignment is very simple. All that you need to do is update a line of code in the starter file to include your name.
+The practice assignment is very simple. All that you need to do is update a line of code in the starter file to include your name. You do not need to understand the code in this practice assignment. The purpose of this assignment is for you to be able to test your database connection before the first assignment requiring your database is due. If you run into issues with completing this assignment, reach out to your instructor as soon as possible. <br>
 
-Feel free to look at the example output file to see what a final result for this project may look like.
+Feel free to look at the example output file to see what a final result for this project may look like. <br>
 
 To get started, make sure that you have [Git](https://git-scm.com/downloads) installed. Follow the instructions in Turning in Assignments using Github (In Canvas) to learn how to clone your online repository (the files on this page) to your local machine.
